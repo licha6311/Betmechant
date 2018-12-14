@@ -1,0 +1,65 @@
+
+
+h2{
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 25px;
+	/*letter-spacing: 50px;*/
+}
+
+
+
+.my-icon {
+	font-size: 70px;
+}
+
+.my-container {
+	margin-top: 30px;
+	margin-bottom: 100px;
+}
+
+.icones: {
+	
+	color: #E8E8DC;
+	text-align: center;
+	letter-spacing: 30px;
+	font-size: 70px;
+
+}
+
+
+.icones:hover{ 
+	color: #B3D3D6;
+
+}
+
+i{
+
+	font-size: 40px;
+	margin-bottom: 30px;
+}
+	
+}
+
+/*h2 {
+	margin: 15px;
+	
+	letter-spacing: 2px;
+	font-size: 15px;
+
+}*/
+
+p{
+	margin: 15px;
+	letter-spacing: 2px;
+	font-size: 50px;
+}
+
+
+
+.name{
+ 
+ font-size: 50px;
+
+
+
+}

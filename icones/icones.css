@@ -1,0 +1,47 @@
+
+
+h2{
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 10px;
+	letter-spacing: 50px;
+}
+
+
+
+.my-icon {
+	font-size: 60px;
+
+}
+
+.my-container {
+	margin-top: 30px;
+
+
+}
+.icones {
+	
+	color: #E8E8DC;
+	text-align: center;
+	letter-spacing: 30px;
+
+}
+
+.icones:hover {
+	
+	color: #E8E8DC;
+	
+}
+
+h2 {
+	margin: 15px;	
+	letter-spacing: 2px;
+	font-size: 20px;
+}
+
+
+
+ p {
+	margin: 15px;
+	letter-spacing: 2px;
+	font-size: 10px !important;
+}

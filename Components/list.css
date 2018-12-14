@@ -1,0 +1,21 @@
+ul {
+	list-style: none;
+	font-family: 'Hind', sans-serif;
+
+}
+
+.inline li {
+	display: inline;
+	padding: 0px 20px;
+
+	
+}
+
+.inline li:nth-child(-n + 2) {
+	border-right: 1px solid white;
+}
+
+.inline a {
+	color: white;
+    font-family: 'Nanum Gothic', sans-serif;
+}

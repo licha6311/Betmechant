@@ -1,0 +1,42 @@
+.banner{ 
+background-color: #005773;
+height: 100vh;
+background-size: cover; 
+background-position: center; 
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: space-around;
+margin-bottom: 100px;
+position: relative;
+
+}
+
+.banner-content{ 
+	font-size: 40px;
+    color: white;
+    text-align: center;
+    letter-spacing: 10px;
+    font-family: 'Roboto', sans-serif;
+   
+    padding: 30px;
+    border-radius: 3px;
+    padding-top: 10px;
+ }
+
+ .banner-content p {
+ 	color: white;
+ 	font-size: 25px;
+
+ }
+
+ .banner-content button{
+
+ 	position: right;
+
+ }
+
+ .logo-kedge{
+ 	height: 450px;
+ 	width: 550px;
+ }

@@ -1,0 +1,142 @@
+@import	url(Components/images.css);
+@import url(Components/banner.css);
+@import url(Components/button.css);
+@import	url(Components/list.css);
+@import	url(Components/navbar.css);
+@import url(Components/cards.css);
+@import url(Components/avatar.css);
+@import url(Components/icones.css);
+@import	url(Components/menu.css);
+
+@import	url(Components/form.css);
+
+
+body { 
+
+	text-align: center;
+	margin: 0px;
+	background: white;
+
+	}
+
+img{
+	align-content: center;}
+
+
+a {
+	text-decoration: none;
+}
+
+p {
+	font-size: 14px;
+}
+
+.background-white {
+	background-color: white;
+}
+
+.follow{
+
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 25px;
+	letter-spacing: 3px;
+	padding-bottom: 80px;
+	padding-top: 40px;
+	color: white;
+}
+
+
+.padded {
+	padding: 30px;
+}
+
+
+
+.fab{
+
+	height: : 30px;
+	width: 50px;
+}
+
+.follow1{
+
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 25px;
+	letter-spacing: 3px;
+	padding-bottom: 60px;
+	padding-top: 60px; 
+
+}
+h1{
+
+	font-size: 40px;
+	color: black;
+}
+ 
+.btn-banner {
+
+	background-color:  black;
+	border: none;
+	margin-top: 20px;
+
+}
+
+.btn-banner:hover {
+
+	background-color:  white;
+	border: none;
+	color: #c3d2d4;
+}
+
+h5 {
+
+	font-size: 20px;
+	letter-spacing: 5px;
+	color: black;
+
+}
+
+.video {
+
+	padding: 80 px; 
+
+}
+h6{
+
+	color: white;
+	font-size: 16px;
+	letter-spacing: 5px;
+	padding-bottom: 40px;
+}
+
+.footer{
+
+	background-color: #005773;
+}
+
+.follow3{
+
+	margin-top: 50px;
+}
+
+.bankroll {
+	padding-top: 20px;
+	padding-bottom:20px;
+}
+
+.text-bm {
+	padding: 5px;
+	padding-top: 20px;
+	font-size: 16px;
+}
+
+
+.inline li:nth-child(-n + 4){
+	    border-right: 1px solid white;
+}
+
+
+.title-equipe{
+	color:white;
+}
+
